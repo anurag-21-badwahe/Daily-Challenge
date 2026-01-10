@@ -1,0 +1,8 @@
+1) Coded Two Leetcode question 
+    i) Flatten linked List : This question can be easily solved using recursion. Just you have to declare a previous pointer and first Flatten the right subtree and go for the left subtree and at the end you will find that the tree became linked list :)
+
+    ii) Max Path Sum : In this question i have to find the maximum path sum on the tree. Means i have to find the route where by adding the nodes values i can get the maximum sum and i can only visit a node once.
+     the solution is very simple. this question also gets solved using recursion only. First i have to find the maximum path sum of the left substree and then find the maximum path sum for the right subtree then add the current node, by doing this i am able to solve the question. I the node is nulll just add 0;
+
+2) Gym ✅
+
