@@ -1,0 +1,9 @@
+Today was so hactic 
+
+1) Still Managed to solved one dsa question . The question is maximum Width in a binary tree. So this question can be easily solved using recusion. Just you have to find the last postion on the last level of left subtree and the right substree. You also have to maintain a maxWidth varible this will be store the max differnve between the left subtree and the right subtree.
+
+
+Even this pushing this , i have to do some personal stuff. 
+
+
+Not did so much today form the career pov , but lot do for my personal life
