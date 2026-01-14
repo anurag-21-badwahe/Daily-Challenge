@@ -1,0 +1,1 @@
+Solved one dsa problem power(x,n)
