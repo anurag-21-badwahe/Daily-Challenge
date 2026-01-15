@@ -1,0 +1,7 @@
+Solved 2 Dsa question
+
+Sum two linked list (Learn define a carry varible outside the loop).
+
+Delete node without any having any head( it is just a simple solution just copy the next node and point the next node to its next node).
+
+after pushing this i will go to read a book
