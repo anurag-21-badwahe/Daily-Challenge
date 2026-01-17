@@ -1,0 +1,1 @@
+Solved 1 dsa question : Find Medium from data stream. This question can be solved using heap. just you have to take two heap. One store values from smaller to greater (min_heap) and another stores values from greater. So if there is even number return the top() value from the max_heap() and if there are odd number just return the average of both top() element
