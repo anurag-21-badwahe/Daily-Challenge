@@ -1,0 +1,5 @@
+Solved two dsa question :
+
+1) BFS IN graph : In this question i have given a adjList,So to solve  this question i have to take a visited array that maintain that this particular node is visited or not and a queue, then run a loop for that adj[it] here it = node. So by doing all this i can run on all the node
+
+2) DFS in Graph = In this question i have given a adjList,So to solve  this question i have to take a visited array that maintain that this particular node is visited and apply recusion for every node that adj[it] here it = node. So by doing all this i can run on all the node
