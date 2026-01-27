@@ -1,0 +1,8 @@
+Solved two DSA question
+
+
+First Question : Add Two Linked List -> This question can be easily solved using the brute force code. The time complexity of this is O(n) and space complexity is also O(n);
+
+
+Second Question : Find Largest Area in a Histogram : This question seems tough and it is not that tough, this can be easily solved by findig the nextSmallerElement and prevSmallerElement. By Finding nextSmallerElement and prevSmallerElement you can easily find the width and then the area,after you you have area you can find maxArea Similarly.
+ The time complexity of above is 0(n) + 0(n) + O(n) = O(n) and space complexity is also O(n) + O(n) = O(n);
