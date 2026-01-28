@@ -1,0 +1,24 @@
+Solved 2 dsa questions
+
+1) Set Matrix Zeros : Better Approach is just take two array on for row and another for col. In this row array you maintain the zeros that comes that the matrix[row][...] and Similarly in col array we have to store the zeros that comes in the matrix[..][col].
+after maintaining the row and col array, then we will retraverse the matrix and by mapping with the array we will make the matrix[i][j] = 0 
+
+the time complexity for above approach is O(n*m) and space complexity is O(n+m);
+
+
+Best Approach : Instead of storing zeros mapping in some different array just mainting in the matrix itself, means in the first row of the matrix mainting the zeros that comes in the matrix[row][..] and Similarly in the first columns of the matrix maintain the zeros  that comes in the matrix[..][col]. There is one place where both row and colums will overlap in that case take a bool vatriable and maintain There
+the Time complexity is O(n*m) and space complexity O(1) only
+
+
+2) Unique Paths : IN this question i have to find the no. of different ways in the matrix for traveling from place "A" to the last point of matrix.
+Here this question can be easily solved using recusion becuse here i have to try different wayss.
+
+here i learn one that we can travel from destination to point "A" so it can decrease the no. of vatriable.The time complexity is exponential and space complexity idO(maxPathSize).
+this can be solved using dp as well to optimise the time and space complexity/
+
+
+
+3) After this i will read book : Yesterday i learned .
+Sometimes when things are failing apart , but in real they are failing in place.
+
+Universe test you by giving small gifts to you just to test you , if you gets satisfied into this or you have more hunger.
