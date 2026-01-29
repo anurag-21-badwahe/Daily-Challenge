@@ -1,0 +1,22 @@
+Solved 4DSA question 
+
+1) Check Bipartite Graph : Bipartite graph is the graph wher you can color the graph with two color make sure that the same color do not overlap the other. 
+Learning : A liner graph is always a Bipartite graph. 
+Solution : You just have to mainting a visited array and a color(col = 0) and on each dfs call you have to do col = !col. This is easily solved the question
+
+2)3 sum : solved this question , this question can be solved by brute force which takes O(n^3). The optimal approach takes O(n^2) time complexity and O(n) space complexity for set data structure.
+
+Learning : in 2 vector(vector<vector<int>>arr) how can i assign a set<vectorint>>st?
+simply by : ans.push_back(set.begin(),st.end());❌
+            ans.assign(st.begin(),st.end());✅
+
+
+3) Solved BFS in a graph (T.c => O(V+E)) and S.C O(V)
+4)Solved DFS in a graph (T.c => O(V+E)) and S.C O(V)
+
+
+Learn about LangGraph, what is check point, multiagent workflow , how to make isolated AI Node etc
+
+
+After this i will read book
+
