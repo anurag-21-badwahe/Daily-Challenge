@@ -1,0 +1,11 @@
+Solved three dsa question 
+
+Inorder Traversal in tree : Basically it is LNR(left node Right);
+Preorder Traversal in tree : Basically id NLR( Node Left Right);
+PostOrder Traversal in tree : Basically is LRN (Left Right Node);
+
+
+T.C of all three is O(2^n) Basically exponential because on everynode we are looking for left and right means on every  nodes we have two options (left and right).
+and S.C = O(n) when it is skew tree and here n is the height of tree
+
+After this i will read book
