@@ -1,0 +1,8 @@
+Solved 2 dsa question
+
+1)Implememt stack using queue. (There are two solution one is using 2 queuea and another is using 1 queue).
+Both the solution are very straight forward.
+
+2)Kth permuation sequece
+
+3) Study about generative AI
