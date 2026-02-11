@@ -1,0 +1,10 @@
+Solved two dsa question
+1) Reverse a Linked List : This question can be easily solved using the Brute Force Approach. In this question who have to just think and code it. In this Problem You must take care to handle the null pointer exception be catious about it.
+
+
+2) 
+
+
+
+
+3)Hit the Gym
