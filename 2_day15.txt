@@ -2,9 +2,11 @@ Solved two dsa question
 1) Reverse a Linked List : This question can be easily solved using the Brute Force Approach. In this question who have to just think and code it. In this Problem You must take care to handle the null pointer exception be catious about it.
 
 
-2) 
+2) Morris Traversal : This question is great , in this question you also have to think like brute force take a small example then try to think the Approach, then again take an example with large tree as compare to previous one. Then by doing thid you will definetly find the answer.
 
+The Time Complexity of this code is : O(2N) as each node is visiting twice(once for establising the temporay link and once to reverting it)
 
+Space Complexity: O(1), the space complexity is constant, as the algorithm uses only a constant amount of extra space irrespective of the input size.
 
 
 3)Hit the Gym
