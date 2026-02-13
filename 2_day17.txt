@@ -1,0 +1,8 @@
+Solved one question 
+Max Profit in Job Scheduling
+
+This question you have to find the max Profit among all job and the basic of there end time and start time.
+
+so to solve this question you have to store the profit with the time line, means till 0th ith what is the max profit, till ith index what is the max profit.
+
+So to doing this you have to sort the according to end time
