@@ -1,0 +1,3 @@
+Hit the gym
+
+learn about bare metal and gossip protocol
